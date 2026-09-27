@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Maximiliano Rada Moreno 👋
 
-<!--
-**Xam900mr/Xam900mr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python & Data Visualization
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* I am a Computer Science student interested in **data analysis and software development**.
+* I am particularly interested in **exploring, cleaning, analyzing, and visualizing data** to find useful patterns and insights.
+* I mainly use **Python** for data-related projects and enjoy working with libraries such as **Pandas, NumPy, and Matplotlib**.
+* I am interested in **statistical analysis, regression, and data modeling**.
+* I also enjoy developing software and learning new technologies through personal and academic projects.
+* I am continuously building my skills through projects involving programming, data, automation, and problem solving.
+
+---
+
+## Technologies & Tools
+
+### Programming & Data
+
+Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • SQL
+
+###  Development
+
+Git • GitHub • Visual Studio Code • Lua • LÖVE2D • Java • Javascript • C • C++ • C# • Bash
+
+### Data & Visualization
+
+Data Analysis • Data Visualization • Statistical Analysis • Regression • Data Cleaning
+
+---
+
+## What I'm Interested In
+
+**Data → Analysis → Visualization → Insights**
+
+I enjoy taking raw data, understanding what it contains, finding relationships and patterns, and turning those results into visualizations or models that are easier to understand.
+
+---
+
+## 📫 Contact
+
+📧 **Email:** xam900mr@gmail.com
+
+
